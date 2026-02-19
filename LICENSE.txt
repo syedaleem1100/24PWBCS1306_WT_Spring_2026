@@ -1,0 +1,2 @@
+"This project is for educational purposes only." Save the file, then commit and push it with the
+message "Added LICENSE file".
